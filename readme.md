@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Rode UI Clone [Live Link](https://rode-ui-web.netlify.app//)
+## Rode UI Clone [Live Link](https://17-rodeui.vercel.app/)
 
 - Skills Gained in this project
 
